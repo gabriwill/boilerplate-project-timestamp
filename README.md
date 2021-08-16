@@ -42,5 +42,5 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Feito com 👨🏻‍💻 por Gabriel Willans 👋🏽 Entre em contato!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-willans-780754200/)](https://www.linkedin.com/in/gabriel-willans-780754200/) [![Outlook Badge](https://img.shields.io/badge/-g.willans@outlook.com-00a0ee?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-willans-780754200/)](https://www.linkedin.com/in/gabriel-willans-780754200/) [![Outlook Badge](https://img.shields.io/badge/-g.willans@outlook.com-00a0ee?style=flat-square&logo=microsoftoutlook&logoColor=white&link=mailto:g.willans@outlook.com)](mailto:g.willans@outlook.com)
 
